@@ -1,0 +1,226 @@
+body{
+	margin: 0em;
+	padding: 0em;
+	background-image: url(фото/фон_1.jpg);
+}
+#menu{
+background-color:black ;
+display: flex;
+padding-top: 18px;
+
+
+
+}
+
+#menu > img {
+	width: 70 px;
+	height: 70px;
+	margin-top: -15px;
+	margin-left: 30px;
+	 display: block;
+
+}
+#Name{
+	background: url(фото/пицца.jpg);
+	background-size: cover;
+	 -webkit-background-clip:text;
+  -webkit-text-fill-color: transparent;
+  color:yellow;
+  font-weight:bold;
+  font-size: 35px;
+  font-family: cursive;
+  margin-top: -5px;
+	
+	
+}
+
+.menu__comp{
+	margin-top: 10px;
+	margin-left: 18%;
+
+
+}
+.menu__comp>a{
+text-align: center;
+padding: 25px;
+text-decoration: none;
+color: white;
+font-size: 20px;
+line-height: 1.2;
+font-weight: 500;
+text-transform: uppercase;
+
+
+}
+.menu__comp> a:hover{
+	color: red;
+}
+.menu__part
+{
+padding-left: 18%;
+}
+.menu__part > button{
+	margin-top: 10px;
+}
+.menu__part > button > a{
+	text-decoration: none;
+	margin-left: 10px;
+	margin-right:10px ;
+	color: black;
+	font-family: cursive;
+}
+.menu__part > button > a:hover{
+color: red;
+}
+#o_nas{
+	font-size: 45px;
+	text-align: center;
+	margin-top:50px ;
+	font-family: Palatino, URW Palladio L, serif;
+}
+#o_nas_zag{
+	margin: 15px;
+}
+#o_nas_text{
+	font-size: 25px;
+	padding: 15px;
+	padding-left: 15%;
+	padding-right:15%;
+	text-align: center;
+
+}
+#interier{
+	margin-left: 15%;
+}
+
+}#interier_photo_1{
+	padding: 20px;
+}
+#interier_photo_2{
+	padding: 20px;
+}
+#interier_photo_3{
+	padding: 20px;
+}
+#interier_photo_4{
+	padding: 20px;
+}
+#interier_photo_1:hover{
+transform: scale(1.2);
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transition-duration: 1.5s;
+
+}
+
+#interier_photo_2:hover{
+transform: scale(1.2);
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transition-duration: 1.5s;
+}
+
+#interier_photo_3:hover{
+transform: scale(1.2);
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transition-duration: 1.5s;
+}
+
+#interier_photo_4:hover{
+transform: scale(1.2);
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transition-duration: 1.5s;
+}
+.messge{
+	border: 2px solid red;
+	font-weight: bolder;
+	
+}
+
+@media (max-width: 1824px) {
+.menu__comp{
+
+	margin-top: 10px;
+	margin-left: 10%;
+	display: inline-flex;;
+
+
+}
+#menu{
+background-color:black ;
+display: flex;
+padding-top: 18px;
+width: 150%;
+
+
+
+
+}
+#interier{
+	margin-left: 15%;
+flex-wrap: wrap;
+  
+}
+
+}#interier_photo_1{
+	padding: 20px;
+	width: 40%;
+	height:40%;
+}
+#interier_photo_2{
+	padding: 20px;
+	width: 40%;
+	height:40%;
+}
+#interier_photo_3{
+	padding: 20px;
+	width: 40%;
+	height:40%;
+}
+#interier_photo_4{
+	padding: 20px;
+	width: 40%;
+	height:40%;
+}
+#interier_photo_1:hover{
+transform: scale(1.2);
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transition-duration: 1.5s;
+
+}
+
+#interier_photo_2:hover{
+transform: scale(1.2);
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transition-duration: 1.5s;
+}
+
+#interier_photo_3:hover{
+transform: scale(1.2);
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transition-duration: 1.5s;
+}
+
+#interier_photo_4:hover{
+transform: scale(1.2);
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transition-duration: 1.5s;
+}
+.menu__part
+{
+padding-left: 5%;
+}
+
+
+}
+
+
+}
+}
+

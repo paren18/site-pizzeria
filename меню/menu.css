@@ -1,0 +1,64 @@
+#bludo_BEGIN{
+	text-align: center;
+	font-family: Palatino, URW Palladio L, serif;
+	margin-top: 20px;
+	font-size: 45px;
+}
+# bludo_otstup{
+	padding-top: 20px;
+
+}
+
+#bludo{
+		font-size: 45px;
+	text-align: center;
+	font-family: Palatino, URW Palladio L, serif;}
+
+	#o_bludo{
+	font-size: 25px;
+	padding-top: 1.5%;
+	padding-bottom: 1.5%;
+	padding-left: 15%;
+	padding-right:15%;
+	text-align: center;
+	
+
+}
+
+
+.otstup{
+	padding-top: 25px;
+
+}
+
+#pizza_menu >   th{
+font-size: 30px;
+
+}
+#pizza_menu_name >tr > td{
+background-color: red;	
+}
+
+
+#pizza_menu_name > td{
+	font-size: 18px;
+	
+}
+#bludo > a{
+
+	color: black;
+}
+.zakaz {
+	color: black;
+}
+#MENU_PHOTO{
+	display: block;
+	 margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+}
+.border{
+	padding: 0px;
+	text-align: center;
+}
+
